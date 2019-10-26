@@ -1,3 +1,8 @@
+해결하지 못한 이슈들
+1. 모달 띄우고 colorpicker 띄웠을때 Modal-main 밖의 modal 부분 눌렀을때 picker 꺼지도록 하고싶음 ( 이걸 위해 redux 파일 하나 더 만들어서 시도했으나 실패중)
+2. Swatch 눌렀을때 바로 ColorPicker가 뜨지 않고 2번 눌러야 뜨는 오류
+3. 구조가 엉망인거같음
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -43,3 +48,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # modalPractice
+
