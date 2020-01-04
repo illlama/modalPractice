@@ -18,9 +18,9 @@ type ColorState = {
   show: boolean;
 };
 const initialState: ColorState = {
-  colorSky: "#3a7cbf",
-  colorSun: "#bf3a3a",
-  colorOcean: "#28287f",
+  colorSky: "#3a9cbf",
+  colorSun: "#ba2a3a",
+  colorOcean: "#08287f",
   show: false
 };
 
